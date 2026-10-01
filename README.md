@@ -1,9 +1,12 @@
 ## Hi there 👋
 
-My name is Temidayo Adeluwa. I like to be called Temi.
+My name is Temidayo Adeluwa, pronounced /tɛ-mi-dah-yo ah-deh-loo-wah/. I like to be called Temi.
 
 I am a computational scientist whose work has encompassed machine learning, statistical genetics, and computational biology. I have applied these skills to work in postpartum depression, drug-induced liver injury, cell segmentation, and transcription factor binding. 
 I have a bachelor's degree in pharmacology, a master's degree in biomedical sciences, and I am completing a doctorate in genetics at UChicago. 
+
+
+
 
 **Here are some of my technical skills**
 | Category | Skills / Tools |
