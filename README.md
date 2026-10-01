@@ -16,7 +16,7 @@ I have a bachelor's degree in pharmacology, a master's degree in biomedical scie
 | Pipeline development, reproducibility and version control | Snakemake, Singularity/Apptainer, Docker, Git/GitHub |
 | Certifications | Coursera's AI Agent Developer Specialization (in progress) |
 
-I love to learn, I am a self-taught coder, and I enjoy taking online courses. Here are some of the certifications that I have taken. 
+I am a self-taught coder who loves to learn, and I enjoy taking online courses. Here are some of the certifications that I have taken. 
 
 | Certification | Provider / Institution |
 |---|---|
